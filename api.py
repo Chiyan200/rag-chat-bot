@@ -6,7 +6,8 @@ from pymongo import MongoClient
 from datetime import datetime
 import time
 import hashlib
-from rag import getQuery
+ 
+from .query_data import main as getQuery
 import asyncio
 from bson import ObjectId
 

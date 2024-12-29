@@ -1,2 +1,8 @@
 .venv
 .env
+*.pyc
+.DS_Store
+backup
+chroma
+/data
+__pycache__ 

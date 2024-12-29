@@ -1,7 +1,8 @@
 import time
 from pymongo import MongoClient
 import os 
-from rag import createVectorEmeddings
+ 
+from .populate_database import main as createVectorEmeddings
 from dotenv import load_dotenv 
 import hashlib
 from datetime import datetime
