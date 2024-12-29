@@ -1,0 +1,13 @@
+langchain-ollama
+pypdf
+langchain
+chromadb # Vector storage
+pytest
+boto3
+Flask 
+flask-cors
+langchain-chroma
+PyPDF2
+Flask-PyMongo 
+pymongo
+python-dotenv
